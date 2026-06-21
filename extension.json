@@ -1,0 +1,9 @@
+{
+  "id": "hello-world",
+  "name": "Hello World",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "description": "Minimal example: adds a sidebar page and a file action.",
+  "author": "Your Name",
+  "homepage": "https://github.com/your-user/tcloud-extension-example"
+}
