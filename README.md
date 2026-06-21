@@ -35,6 +35,8 @@ extension.json     ← the manifest (required)
 index.js           ← the entry file named by the manifest (required)
 i18n/
   en.json          ← source strings (English)
+  it.json          ← a translation
+crowdin.yml         ← optional: wire your i18n folder to Crowdin
 LICENSE
 README.md
 ```
